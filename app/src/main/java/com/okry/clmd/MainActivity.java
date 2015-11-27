@@ -1,4 +1,4 @@
-package com.okry;
+package com.okry.clmd;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
